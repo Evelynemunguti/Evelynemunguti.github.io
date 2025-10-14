@@ -18,7 +18,7 @@ Chogoria Girls High School
 
 💼 **Professional Experience**
 
-** Social Media Volunteer Connect World Kenya – Nairobi | Mar 2025 – Present**
+**Social Media Volunteer Connect World Kenya – Nairobi | Mar 2025 – Present**
 
 Manage and grow Connect World’s Instagram, Facebook, and X platforms.
 
