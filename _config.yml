@@ -71,9 +71,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Evelynemunguti"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"></i>"
-      url: "https://linkedin.com/evelynekyamwai"
+   # - label: "LinkedIn"
+   #   icon: "fab fa-fw fa-linkedin"></i>"
+   #   url: "https://linkedin.com/evelynekyamwai"
 
 footer:
   links:
