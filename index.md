@@ -8,14 +8,6 @@ author_profile: true
 **CURRICULUM VITAE - Evelyne Munguti**
 
 
-## 💼 **Professional Summary**
-I’m a **creative designer** and **developer** passionate about crafting user-friendly digital experiences.  
-I combine design, technology, and creativity to bring ideas to life — from building responsive websites to designing visual brands.  
-Skilled in **Adobe Illustrator**, **Figma**, and **Canva**, as well as **HTML**, **CSS**, and **JavaScript**.  
-Currently, I’m expanding my expertise in **Cloud and Network Security** through the **CyberShujaa Program**, with a goal to build secure and impactful digital solutions.
-
----
-
 ## 🎓 **Education**
 
 **Bachelor of Information Systems & Knowledge Management**  
