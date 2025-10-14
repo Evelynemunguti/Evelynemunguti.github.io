@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Evelyne Munguti"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I design, Create Websites and Currently a Cloud and Network Security student at CyberShujaa."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
