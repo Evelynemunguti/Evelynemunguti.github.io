@@ -17,21 +17,17 @@ Masinde Muliro University of Science & Technology
 Chogoria Girls High School
 
 💼 **Professional Experience**
-**Social Media Volunteer**
+**Social Media Volunteer, Connect World Kenya – Nairobi | Mar 2025 – Present**
 
-**Connect World Kenya – Nairobi | Mar 2025 – Present**
+Manage and grow Connect World’s Instagram, Facebook and X platforms
 
-Manage and grow Connect World’s Instagram, Facebook, and X platforms
-
-Design graphics, write captions, and schedule weekly posts
+Design graphics, write captions and schedule weekly posts
 
 Promote volunteer programs and partner initiatives
 
 Monitor analytics to track engagement and optimize content performance
 
-**Social Media Manager Intern**
-
-**MobiGirlz Community – eMobilis Training Institute | Feb 2025 – May 2025**
+**Social Media Manager Intern, MobiGirlz Community – eMobilis Training Institute | Feb 2025 – May 2025**
 
 Designed branded social media content and event posters using Canva
 
@@ -39,9 +35,7 @@ Scheduled posts across multiple platforms and tracked analytics
 
 Supported campaign planning and youth engagement activities
 
-**Computer Tutor & Receptionist**
-
-**Talanta Computer School and College | Nov 2023 – Dec 2024**
+**Computer Tutor & Receptionist, Talanta Computer School and College | Nov 2023 – Dec 2024**
 
 Trained students in Computer Packages and Graphic Design (Canva & Adobe Illustrator)
 
