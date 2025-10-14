@@ -8,62 +8,58 @@ author_profile: true
 **CURRICULUM VITAE - Evelyne Munguti**
 
 
-🎓 **Education**
+## 💼 **Professional Summary**
+I’m a **creative designer** and **developer** passionate about crafting user-friendly digital experiences.  
+I combine design, technology, and creativity to bring ideas to life — from building responsive websites to designing visual brands.  
+Skilled in **Adobe Illustrator**, **Figma**, and **Canva**, as well as **HTML**, **CSS**, and **JavaScript**.  
+Currently, I’m expanding my expertise in **Cloud and Network Security** through the **CyberShujaa Program**, with a goal to build secure and impactful digital solutions.
 
-**Bachelor of Information Systems & Knowledge Management**
-Masinde Muliro University of Science & Technology
+---
 
-**KCSE**
-Chogoria Girls High School
+## 🎓 **Education**
 
-💼 **Professional Experience**
+**Bachelor of Information Systems & Knowledge Management**  
+*Masinde Muliro University of Science & Technology*  
 
-**Social Media Volunteer, Connect World Kenya – Nairobi | Mar 2025 – Present**
+**KCSE**  
+*Chogoria Girls High School*  
 
-- Manage and grow Connect World’s Instagram, Facebook and X platforms
+---
 
-- Design graphics, write captions and schedule weekly posts
+## 💼 **Professional Experience**
 
-- Promote volunteer programs and partner initiatives
+**Social Media Volunteer**  
+*Connect World Kenya – Nairobi | Mar 2025 – Present*  
+- Manage and grow Connect World’s **Instagram**, **Facebook**, and **X** platforms  
+- Design graphics, write captions, and schedule weekly posts  
+- Promote volunteer programs and partner initiatives  
+- Monitor analytics to track engagement and optimize content performance  
 
-- Monitor analytics to track engagement and optimize content performance
-  
+**Social Media Manager Intern**  
+*MobiGirlz Community – eMobilis Training Institute | Feb 2025 – May 2025*  
+- Designed branded social media content and event posters using **Canva**  
+- Scheduled posts across multiple platforms and tracked analytics  
+- Supported campaign planning and youth engagement activities  
 
-**Social Media Manager Intern, MobiGirlz Community – eMobilis Training Institute | Feb 2025 – May 2025**
+**Computer Tutor & Receptionist**  
+*Talanta Computer School and College | Nov 2023 – Dec 2024*  
+- Trained students in **Computer Packages** and **Graphic Design** (*Canva & Adobe Illustrator*)  
+- Managed front office operations, student records, and payments  
+- Provided **IT support** and guidance to learners and staff  
 
-- Designed branded social media content and event posters using Canva
+---
 
-- Scheduled posts across multiple platforms and tracked analytics
+## 📜 **Certifications**
+- **Information Systems**  
+- **Leadership Participation – Taifa Teule**  
+- **Currently pursuing:** *Cloud & Network Security Course – CyberShujaa Program*  
 
-- Supported campaign planning and youth engagement activities
+---
 
-  
-
-**Computer Tutor & Receptionist, Talanta Computer School and College | Nov 2023 – Dec 2024**
-
-- Trained students in Computer Packages and Graphic Design (Canva & Adobe Illustrator)
-
-- Managed front office operations, student records and payments
-
-- Provided IT support and guidance to learners and staff
-
-📜 **Certifications**
-
-- Information Systems
-
-- Leadership Participation – Taifa Teule
-
-- Currently pursuing: Cloud & Network Security Course – CyberShujaa Program
-
-🧠 **Technical Skills**
-
-- **Microsoft Office:** Word, Excel, PowerPoint, Outlook, Publisher
-
-- **Graphic Design:** Adobe Illustrator, Canva, Pixel Lab
-
-- **Web Tools:** WordPress, Figma, Adobe XD
-
-- **Administrative Tools:** File management, scheduling, requisition preparation, report writing
-
-**Soft Skills:** Communication, teamwork, organization, confidentiality, adaptability
+## 🧠 **Technical Skills**
+- **Microsoft Office:** Word, Excel, PowerPoint, Outlook, Publisher  
+- **Graphic Design:** Adobe Illustrator, Canva, Pixel Lab  
+- **Web Tools:** WordPress, Figma, Adobe XD  
+- **Administrative Tools:** File management, scheduling, requisition preparation, report writing  
+- **Soft Skills:** Communication, teamwork, organization, confidentiality, adaptability  
 
