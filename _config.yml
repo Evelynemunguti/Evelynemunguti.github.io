@@ -59,21 +59,21 @@ plugins:
 
 author:
   name   : "Evelyne Munguti"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/eve.jpg"
   bio    : "I design, Create Websites and Currently a Cloud and Network Security student at CyberShujaa."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/EvelyneKyamwai"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Evelynemunguti"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/Evelynekyamwai"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedIn"
+      url: "https://instagram.com/evelynekyamwai"
 
 footer:
   links:
