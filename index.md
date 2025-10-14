@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-**CURRICULUM VITAE - Evelyne Munguti**
+**CURRICULUM VITAE - EVELYNE MUNGUTI**
 
 
 ## 🎓 **Education**
