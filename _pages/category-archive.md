@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Lab Challenges"
 layout: categories
-permalink: /categories/
+permalink: /labchallenges/
 author_profile: true
 ---
