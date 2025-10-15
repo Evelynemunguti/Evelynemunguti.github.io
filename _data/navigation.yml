@@ -4,6 +4,8 @@ main:
  #   url: /labchallenges/
  # - title: "Tags"
   #  url: /tags/
+  - title: "Home"
+    url: //
   - title: "Projects"
     url: /projects/
   - title: "Lab-Challenges"
