@@ -8,5 +8,5 @@ main:
     url: /projects/
   - title: "Lab-Challenges"
     url: /labchallenges/
-   # - title: "Contact"
-   # url: /contact/
+   - title: "Contact"
+     url: /contact/
