@@ -1,8 +1,10 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Lab Challenges"
+  - title: "Lab-Challenges"
     url: /labchallenges/
+ # - title: "Lab Challenges"
+ #   url: /labchallenges/
  # - title: "Tags"
   #  url: /tags/
   - title: "Projects"
