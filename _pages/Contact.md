@@ -1,13 +1,15 @@
 ---
-title: Contact Me
+title: "Contact Me"
 permalink: /contact/
+layout: single
+author_profile: true
 ---
 
 ## 📬 **Get in Touch**
 
 Hello! 👋  
-I’d love to hear from you whether you’re reaching out about a project, collaboration or opportunity.  
-You can contact me using below details:
+I’d love to hear from you — whether you’re reaching out about a project, collaboration, or opportunity.  
+You can contact me using any of the methods below:
 
 ---
 
@@ -25,6 +27,5 @@ You can contact me using below details:
 ---
 
 ### 💭 **Let’s Create Something Amazing**
-I’m open to freelance design and development projects, social media collaborations 
-and tech community initiatives. 
-Feel free to reach out.I’ll respond as soon as possible!
+I’m open to freelance design and development projects, social media collaborations,  
+and tech community initiatives. Feel free to reach out — I’ll respond as soon as possible! 💫
