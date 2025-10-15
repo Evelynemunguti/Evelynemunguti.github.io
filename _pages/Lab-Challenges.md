@@ -33,7 +33,7 @@ Understand how protocols map between the **OSI** and **TCP/IP** models and obser
 - MAC addresses and TTL values visible at Layer 2/3.
 
 **Recommendations**
-- Use protocol monitoring, network segmentation, and logging for production networks.
+- Use protocol monitoring, network segmentation and logging for production networks.
 
 **Lessons Learned**
 - Visual packet inspection cements theory; Wireshark decoders are essential.
@@ -45,7 +45,7 @@ Understand how protocols map between the **OSI** and **TCP/IP** models and obser
 **Type:** Packet analysis / Forensics
 
 **Objective**  
-Analyze PCAPs to identify suspicious traffic, extract artifacts (credentials, files), and summarize conclusions.
+Analyze PCAPs to identify suspicious traffic, extract artifacts (credentials, files) and summarize conclusions.
 
 **Tools**  
 - Wireshark / tshark  
@@ -76,7 +76,7 @@ Analyze PCAPs to identify suspicious traffic, extract artifacts (credentials, fi
 **Type:** Network design / Configuration
 
 **Objective**  
-Design and configure a routed network with VLANs, inter-VLAN routing, and verify host connectivity.
+Design and configure a routed network with VLANs, inter-VLAN routing and verify host connectivity.
 
 **Tools**  
 - Cisco Packet Tracer
@@ -104,7 +104,7 @@ Design and configure a routed network with VLANs, inter-VLAN routing, and verify
 **Type:** Guided course / Lab
 
 **Objective**  
-Learn capture collection, filtering, protocol identification, and anomaly detection workflows.
+Learn capture collection, filtering, protocol identification and anomaly detection workflows.
 
 **Tools**  
 - Wireshark (guided)  
@@ -119,7 +119,7 @@ Learn capture collection, filtering, protocol identification, and anomaly detect
 - Better prioritization using statistics views and filter strategies.
 
 **Recommendations**
-- Implement flow logs, IDS rules (Suricata), and periodic PCAP reviews.
+- Implement flow logs, IDS rules (Suricata) and periodic PCAP reviews.
 
 **Lessons Learned**
 - Structured learning accelerates analyst workflow adoption.
@@ -131,7 +131,7 @@ Learn capture collection, filtering, protocol identification, and anomaly detect
 **Type:** Learning lab / CTF-style
 
 **Objective**  
-Understand DNS operations, record types, common attacks (spoofing, tunneling), and how to analyze DNS traffic.
+Understand DNS operations, record types, common attacks (spoofing, tunneling) and how to analyze DNS traffic.
 
 **Tools**  
 - dig / nslookup  
@@ -160,7 +160,7 @@ Understand DNS operations, record types, common attacks (spoofing, tunneling), a
 **Type:** Web fundamentals / Security lab
 
 **Objective**  
-Explore HTTP request/response structure, headers, cookies, and request manipulation for security testing.
+Explore HTTP request/response structure, headers, cookies and request manipulation for security testing.
 
 **Tools**  
 - Burp Suite (or browser dev tools)  
@@ -176,7 +176,7 @@ Explore HTTP request/response structure, headers, cookies, and request manipulat
 - Parameter tampering revealed input validation gaps.
 
 **Mitigation**
-- Add security headers, set cookie flags (`HttpOnly`, `Secure`, `SameSite`), validate inputs server-side, and deploy WAF rules.
+- Add security headers, set cookie flags (`HttpOnly`, `Secure`, `SameSite`), validate inputs server-side and deploy WAF rules.
 
 **Lessons Learned**
 - Intercepting requests is crucial to understanding application behavior and vulnerabilities.
