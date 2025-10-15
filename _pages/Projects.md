@@ -16,8 +16,8 @@ It performs basic arithmetic operations with a clean and responsive layout.
 ### 🧩 **Admin Dashboard**
 A professional **Admin Dashboard interface** built using **HTML, CSS (Grid & Flexbox)** and **JavaScript**.  
 The dashboard includes navigation, analytics widgets and responsive design showcasing strong layout and UI skills.  
-🔗 [View Project](https://evelynemunguti.github.io/Admin-Dashboard/)  
-💻 [View Code](https://github.com/Evelynemunguti/Admin-Dashboard)
+🔗 [View Project](https://evelynemunguti.github.io/Admin_Dashboard/)  
+💻 [View Code](https://github.com/Evelynemunguti/Admin_Dashboard)
 
 ---
 
